@@ -1,0 +1,20 @@
+https://www.strava.com/oauth/token
+
+https://www.strava.com/oauth/token
+
+https://www.strava.com/oauth/authorize?client_id=96595&redirect_uri=http://localhost&response_type=code&scope=activity:read_all
+
+auth code="caa29c95a384d555931697f9b81d57fdd3be5ed7"
+
+Exchange auth code:
+
+https://www.strava.com/oauth/tokenclient_id=96595&client_secret=f2719f8b67598069475b93bce67e27129f3c9ff0&code=caa29c95a384d555931697f9b81d57fdd3be5ed7&grant_type=authorization_code
+
+
+    "refresh_token": "76e8e52b623f3e7b2b296b9a3e5a52845db3aa04",
+    "access_token": "670b6a6cd71b0345eb6e6c234c0b45f2ba6c1b86",
+
+
+Query activities:
+
+https://www.strava.com/api/v3/athlete/activities?access_token=670b6a6cd71b0345eb6e6c234c0b45f2ba6c1b86

@@ -1,0 +1,50 @@
+:root {
+    --primary: #d81e5b;
+    --secondary: #8c38ff;
+    --third: #F8DF00;
+    --fourth: #00F8CB;
+    --dark: #131a26;
+    --light: #eee;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    background-color: var(--dark);
+    color: var(--light);
+}
+
+.header-wrapper {
+    width: 1200px;
+    height: inherit;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 400px;
+    height: inherit;
+    font-size: 30px;
+    padding-top: 15px;
+    float: left;
+}
+
+.nav {
+    width: 800px;
+    height: inherit;
+    float: left;
+    padding-top: 20px;
+    text-align: right;
+}
+
+.nav-link {
+    color: var(--light);
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    opacity: 0.5;
+}
