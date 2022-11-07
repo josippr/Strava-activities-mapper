@@ -1,0 +1,15 @@
+:root {
+    --primary: #d81e5b;
+    --secondary: #8c38ff;
+    --third: #F8DF00;
+    --fourth: #00F8CB;
+    --dark: #131a26;
+    --light: #eee;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: var(--dark);
+    color: var(--light);
+}
