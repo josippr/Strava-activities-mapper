@@ -9,6 +9,8 @@ import { MapContainer, TileLayer, Popup, Polyline } from 'react-leaflet'
 import axios from 'axios';
 import polyline from '@mapbox/polyline';
 
+import Footer from './Components/footer';
+
 
 
 function App() {
@@ -59,11 +61,14 @@ function App() {
           <Popup>
             <div>
               <h2>{"Title: " + activity.activityName}</h2>
+              
+              
             </div>
           </Popup>
         </Polyline>
       ))}
     </MapContainer>
+    <Footer></Footer>
     </div>
   );
 }
