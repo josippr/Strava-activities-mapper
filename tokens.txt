@@ -18,3 +18,6 @@ https://www.strava.com/oauth/tokenclient_id=96595&client_secret=f2719f8b67598069
 Query activities:
 
 https://www.strava.com/api/v3/athlete/activities?access_token=670b6a6cd71b0345eb6e6c234c0b45f2ba6c1b86
+
+
+TSX 
