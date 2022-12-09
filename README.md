@@ -6,6 +6,7 @@ required libraries:
 
 routing updated november 10th
 additional update nov 11th
+Only global map available for now, more features coming in future updates
 
 
 # Getting Started with Create React App
