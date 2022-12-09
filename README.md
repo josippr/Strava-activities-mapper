@@ -1,8 +1,8 @@
 
 required libraries:
 
-Axios | npm install  axios<br/>
-Polyline | npm installl polyline
+- Axios | npm install  axios<br/>
+- Polyline 
 
 routing updated november 10th
 additional update nov 11th
