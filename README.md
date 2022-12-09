@@ -4,8 +4,8 @@ required libraries:
 - Axios | npm install  axios<br/>
 - Polyline 
 
-routing updated november 10th
-additional update nov 11th <br />
+routing updated November 10th
+additional update Nov 11th <br />
 ### Only global map available for now, more features coming in future updates
 
 -------------------------------------------------------------------------------------------------------
